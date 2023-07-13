@@ -1,0 +1,15 @@
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\trabajo .net.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\trabajo .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\trabajo .net.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\trabajo .net.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\trabajo .net.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\bin\Debug\net6.0\trabajo .net.exe
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\bin\Debug\net6.0\trabajo .net.deps.json
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\bin\Debug\net6.0\trabajo .net.runtimeconfig.json
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\bin\Debug\net6.0\trabajo .net.dll
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\bin\Debug\net6.0\trabajo .net.pdb
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\trabajo .net.dll
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\refint\trabajo .net.dll
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\trabajo .net.pdb
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\trabajo .net.genruntimeconfig.cache
+C:\Users\juanp\OneDrive\Escritorio\Proyecto .net\trabajo .net\trabajo .net\obj\Debug\net6.0\ref\trabajo .net.dll
